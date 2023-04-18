@@ -148,3 +148,8 @@ footer a{
     
   }
 
+.cabecalho-imagem, .cabecalho-menu-item, .conteudo-principal-imagem, .conteudo-principal-escrito-titulo, .conteudo-principal-escrito-subtitulo, .conteudo-principal-escrito-botao, .conteudo-secundario-titulo, .conteudo-secundario-paragrafo, .rodape{
+
+  visibility: hidden;
+
+}
